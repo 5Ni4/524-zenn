@@ -1,0 +1,24 @@
+{
+  "name": "524-zenn",
+  "version": "1.0.0",
+  "description": "ねこの落描きがされちゃっている技術ブログです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5Ni4/524-zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/5Ni4/524-zenn/issues"
+  },
+  "homepage": "https://github.com/5Ni4/524-zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.10"
+  }
+}
