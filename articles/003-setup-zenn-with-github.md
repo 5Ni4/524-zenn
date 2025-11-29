@@ -3,7 +3,7 @@ title: "ZennはVS Codeで書け！Git連携のすゝめ"
 emoji: "🐈"
 type: "tech"
 topics: ["zenn", "git", "github", "vscode", "初心者"]
-published: false
+published: true
 ---
 
 # Zennに投稿するならVS Codeで書け！ Gitリポジトリ連携のすゝめ
