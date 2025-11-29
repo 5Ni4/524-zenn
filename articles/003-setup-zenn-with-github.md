@@ -6,7 +6,7 @@ topics: ["zenn", "git", "github", "VS Code", "初心者"]
 published: true
 ---
 
-# Zennに投稿するならVS Codeで書け！ Gitリポジトリ連携のすゝめ
+# ZennはVS Codeで書け！ Gitリポジトリ連携のすゝめ
 
 ## きっかけ
 
